@@ -1,0 +1,325 @@
+canonical_identifier: bkk:krp/KR6r0048/v1
+canonical_location: https://kanripo.org/bkk/KR6r0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 玄奘三藏師資傳叢書
+  identifiers:
+    alt_id:
+    - X88n1651
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1651.xml
+    old_id: X88n1651
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0048_000.yaml, hash: 'sha256:a8f675c555c6fd5a4a1fb9ecd3020b15125625e79434b5f367b36419e4fabd2e'}
+  - {seq: 1, filename: KR6r0048_001.yaml, hash: 'sha256:d0115fb1d7785bf78923eeae5ce9bc89fc406ca6dd97a675fe124785b7b22f63'}
+  - {seq: 2, filename: KR6r0048_002.yaml, hash: 'sha256:fb098fbb72882fc5af1c94adba78d32586878e16a45883eb448e77d3e7e1af7e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0048_000.markers.yaml, hash: 'sha256:e2e80d0c15486fe71d6918b8e4b1611d4c5c1017b567befaac28668a4f19af8b'}
+  - {seq: 1, role: markers, filename: assets/KR6r0048_001.markers.yaml, hash: 'sha256:05756e17aefb3663cadf249bb4280d19ef6176f3710baff71b009675a5e2bfb7'}
+  - {seq: 2, role: markers, filename: assets/KR6r0048_002.markers.yaml, hash: 'sha256:c8778588ab254a627bf9932c26ea6ebfef218ba3c318fe69982604e32cff0ee4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0048_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 玄弉三藏師資傳叢書目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16995
+  label: 玄奘三藏師資傳叢書卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: No. 1651-1 大唐故三藏玄弉法師行狀一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-2
+    span:
+    - body
+    - 9594
+    - 9594
+  label: No. 1651-2 大唐三藏大遍覺法師塔銘(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-3
+    span:
+    - body
+    - 12652
+    - 12652
+  label: No. 1651-3 大唐三藏玄奘法師表啟一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-4
+    span:
+    - body
+    - 12664
+    - 12664
+  label: 進經論等表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-5
+    span:
+    - body
+    - 13192
+    - 13192
+  label: 進西域記表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-6
+    span:
+    - body
+    - 13676
+    - 13676
+  label: 請　大宗文皇帝作經序并題經表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-7
+    span:
+    - body
+    - 13883
+    - 13883
+  label: 大宗文皇帝報請作經序　勅書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-8
+    span:
+    - body
+    - 14020
+    - 14020
+  label: 大宗文皇帝勅書表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-9
+    span:
+    - body
+    - 14356
+    - 14356
+  label: 謝納袈裟剃刀表一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-10
+    span:
+    - body
+    - 14523
+    - 14523
+  label: 謝大宗文皇帝製三藏聖教序表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-11
+    span:
+    - body
+    - 14829
+    - 14829
+  label: 大宗文皇帝報玄奘法師謝表　勅書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-12
+    span:
+    - body
+    - 14923
+    - 14923
+  label: 謝述聖記啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-13
+    span:
+    - body
+    - 15168
+    - 15168
+  label: 皇帝在春宮日報玄奘法師謝啟書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-14
+    span:
+    - body
+    - 15247
+    - 15247
+  label: 大宗文皇帝與長命婆羅門書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-15
+    span:
+    - body
+    - 15420
+    - 15420
+  label: 玄奘師玄法師請經流行表一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-16
+    span:
+    - body
+    - 15858
+    - 15858
+  label: 玄奘法師謝東宮書述聖記啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-17
+    span:
+    - body
+    - 16110
+    - 16110
+  label: 請經出流行啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-18
+    span:
+    - body
+    - 16455
+    - 16455
+  label: 皇帝在春宮日所寫六門陀羅尼經及題菩薩藏經等謝啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0048_X_001-mulu-19
+    span:
+    - body
+    - 16721
+    - 16721
+  label: 玄奘法師請附訊物及書往西域表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 4586
+  label: 玄奘三藏師資傳叢書卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: No. 1651-4 大慈恩寺大法師基公塔銘(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-2
+    span:
+    - body
+    - 699
+    - 699
+  label: No. 1651-5 大唐大慈恩寺法師基公碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-3
+    span:
+    - body
+    - 1562
+    - 1562
+  label: No. 1651-6
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-4
+    span:
+    - body
+    - 1773
+    - 1773
+  label: No. 1651-7 大唐大慈恩寺大師𦘕讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-5
+    span:
+    - body
+    - 2304
+    - 2304
+  label: No. 1651-8 心經幽贊序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-6
+    span:
+    - body
+    - 2768
+    - 2768
+  label: No. 1651-9 唐故白馬寺主翻譯惠沼神塔碑(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0048_X_002-mulu-7
+    span:
+    - body
+    - 3827
+    - 3827
+  label: No. 1651-10 大周西明寺故大德圓測法師佛舍利塔銘(并序)
+  type: mulu
+  level: 1
+hash: sha256:39d9cd482e6fad4575566e33bd1fde236bc4fb02c5e3bafdd6cff35330840dd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
