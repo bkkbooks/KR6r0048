@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0048_000.yaml, hash: 'sha256:a8f675c555c6fd5a4a1fb9ecd3020b15125625e79434b5f367b36419e4fabd2e'}
-  - {seq: 1, filename: KR6r0048_001.yaml, hash: 'sha256:d0115fb1d7785bf78923eeae5ce9bc89fc406ca6dd97a675fe124785b7b22f63'}
-  - {seq: 2, filename: KR6r0048_002.yaml, hash: 'sha256:fb098fbb72882fc5af1c94adba78d32586878e16a45883eb448e77d3e7e1af7e'}
+  - {seq: 0, filename: KR6r0048_000.yaml, hash: 'sha256:d8b96f2f4a3f855f8d1bf7a9eeaca8c506e5083abc3d78528f8a7a985342d42b'}
+  - {seq: 1, filename: KR6r0048_001.yaml, hash: 'sha256:f5d6f56dcde2437b7eb69e479609d40c3398b05bbe512de48e776dd29cb9816c'}
+  - {seq: 2, filename: KR6r0048_002.yaml, hash: 'sha256:e4e7f80b7c874588cd97d714b34134f43ea9baa1b302760d44ac279ebaf9d737'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0048_000.markers.yaml, hash: 'sha256:e2e80d0c15486fe71d6918b8e4b1611d4c5c1017b567befaac28668a4f19af8b'}
-  - {seq: 1, role: markers, filename: assets/KR6r0048_001.markers.yaml, hash: 'sha256:05756e17aefb3663cadf249bb4280d19ef6176f3710baff71b009675a5e2bfb7'}
-  - {seq: 2, role: markers, filename: assets/KR6r0048_002.markers.yaml, hash: 'sha256:c8778588ab254a627bf9932c26ea6ebfef218ba3c318fe69982604e32cff0ee4'}
+  - {seq: 0, role: markers, filename: assets/KR6r0048_000.markers.yaml, hash: 'sha256:42bc7b7c2f3302f129b244c638d1844f9ec1ebc2e4dbab5ff75fd2fce63eea87'}
+  - {seq: 1, role: markers, filename: assets/KR6r0048_001.markers.yaml, hash: 'sha256:adefa4f19db36e241cbe248e20bab972eea433a81707809b11c96259496b3e4f'}
+  - {seq: 2, role: markers, filename: assets/KR6r0048_002.markers.yaml, hash: 'sha256:0b04ec731b8910ea5ba23ad5b346f3fccac0f4f40eed598d4bc21d5d538dc056'}
 table_of_contents:
 - ref:
     seq: 0
@@ -319,7 +319,4 @@ table_of_contents:
   label: No. 1651-10 大周西明寺故大德圓測法師佛舍利塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:39d9cd482e6fad4575566e33bd1fde236bc4fb02c5e3bafdd6cff35330840dd6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0ea0f2deb7128cfb8a06b687c812523fbb3fea19deb2c1d201690750f0b0141e
