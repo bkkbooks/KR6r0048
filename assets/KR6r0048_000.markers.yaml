@@ -36,6 +36,7 @@ markers:
   - {type: line-break, offset: 47, content: '', id: KR6r0048_X_000-0368a09, ed: X, 'n': 0368a09}
   - {type: line-break, offset: 47, content: '', id: KR6r0048_X_000-0150a06, ed: R150, 'n': 0150a06}
   - {type: xml-element, offset: 47, content: '', id: itemX88p0368a0901, name: item, role: open, attrs: {'xml:id': itemX88p0368a0901}}
+  - {type: substitution, offset: 56, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: xml-element, offset: 57, content: '', id: KR6r0048_X_000-bkkxmlele11, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 61, content: '', id: KR6r0048_X_000-bkkxmlele12, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 61, content: '', id: itemX88p0368a0901_end, name: item, role: close, attrs: {'xml:id': itemX88p0368a0901}}
@@ -94,6 +95,7 @@ markers:
   - {type: indent, offset: 151, content: 　, id: KR6r0048_X_000-bkkind8}
   - {type: xml-element, offset: 151, content: '', id: KR6r0048_X_000-bkkxmlele29, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 152, content: '', id: KR6r0048_X_000-bkkxmlele30, name: note, role: close, attrs: {place: inline}}
+  - {type: substitution, offset: 153, original: 邕, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20414}}
   - {type: xml-element, offset: 155, content: '', id: itemX88p0368a1601_end, name: item, role: close, attrs: {'xml:id': itemX88p0368a1601}}
   - {type: line-break, offset: 155, content: '', id: KR6r0048_X_000-0368a18, ed: X, 'n': 0368a18}
   - {type: line-break, offset: 155, content: '', id: KR6r0048_X_000-0150a15, ed: R150, 'n': 0150a15}
@@ -128,4 +130,4 @@ markers:
   - {type: line-break, offset: 190, content: '', id: KR6r0048_X_000-0150b01, ed: R150, 'n': 0150b01}
   body: []
   back: []
-hash: sha256:42bc7b7c2f3302f129b244c638d1844f9ec1ebc2e4dbab5ff75fd2fce63eea87
+hash: sha256:061fee7fe483d271f19ec1c8cfe35641db37a7d6681bbf41b3278ef448a69be7
