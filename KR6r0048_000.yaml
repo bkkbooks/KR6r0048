@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6r0048/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 玄弉三藏師資傳叢書目次卷上大唐故三藏玄奘法師行狀一卷唐冥詳撰大唐三藏大遍覺法師塔銘并序唐劉軻撰大唐三藏玄奘法師表啓一卷不完卷下大慈恩寺大法師基公塔銘并序唐李宏慶撰大唐大慈恩寺法師基公唐李又撰唐太宗皇帝御製基公讚記日本清算記大唐大慈恩寺大師畫讚唐江滿昌文撰心經幽贊序唐苗神容製唐故白馬寺主翻譯慧沼神塔并序唐李雍撰大周西明寺故大德圓測法師佛舍利塔銘并序唐宋復撰玄奘三藏師資傳叢書目次終
   hash: sha256:8ba48ba6d6ccc7dc0b690673a3ece19f7e9781bd96ad97eb2db8c9e6e8cbfca9
   markers:
   - {type: 其他, offset: 0, content: 玄弉三藏師資傳叢書目次, id: KR6r0048_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 玄奘三藏師資傳叢書
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X88/X88n1651.xml
     old_id: X88n1651
-hash: sha256:a8f675c555c6fd5a4a1fb9ecd3020b15125625e79434b5f367b36419e4fabd2e
+hash: sha256:fd5893847361a1cf658d3a520e1fb0198091696684d314dbab5f6d715012d0a7

@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0048_000-X.yaml, hash: 'sha256:d8b96f2f4a3f855f8d1bf7a9eeaca8c506e5083abc3d78528f8a7a985342d42b'}
+  - {seq: 0, filename: KR6r0048_000-X.yaml, hash: 'sha256:f5936ee3d600675f414f85e640b973e9c515d2be9afc99e168425ff9a75586a4'}
   - {seq: 1, filename: KR6r0048_001-X.yaml, hash: 'sha256:f5d6f56dcde2437b7eb69e479609d40c3398b05bbe512de48e776dd29cb9816c'}
   - {seq: 2, filename: KR6r0048_002-X.yaml, hash: 'sha256:e4e7f80b7c874588cd97d714b34134f43ea9baa1b302760d44ac279ebaf9d737'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0048_000-X.markers.yaml, hash: 'sha256:63221709573eb522778cdd9e94a9b5098b59fa39368484fbaf8f7e94be22707a'}
+  - {seq: 0, role: markers, filename: assets/KR6r0048_000-X.markers.yaml, hash: 'sha256:915595098f6a1d60fc34482f02bc0aff5e4e0879c81e555d32f8d8fcdf47e240'}
   - {seq: 1, role: markers, filename: assets/KR6r0048_001-X.markers.yaml, hash: 'sha256:362f4ba0ca1ac461b2228fed611c4adc87f5f0dfd051fea1e41e8c7ca4b1b1a7'}
   - {seq: 2, role: markers, filename: assets/KR6r0048_002-X.markers.yaml, hash: 'sha256:bb16d53228271b8322e13cb76ab961b814295a2b578b29b53813b8f2e3a5f829'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0048_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 玄弉三藏師資傳叢書目次
@@ -317,4 +317,4 @@ table_of_contents:
   label: No. 1651-10 大周西明寺故大德圓測法師佛舍利塔銘(并序)
   type: mulu
   level: 1
-hash: sha256:10c2deb93dcd5fbfbcfd082ca527ac16d35cdde42e4f5b247351cceb723ab3d8
+hash: sha256:6da4fad7a25b599d36daea9a5476085e42d80373ac3605fdd012b437a5a0bc3e
